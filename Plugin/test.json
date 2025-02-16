@@ -1,0 +1,7 @@
+{
+    "name": "test",
+    "path": "Plugin/test",
+    "with_key": false,
+    "cmd": "echo test",
+    "params": []
+}

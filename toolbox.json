@@ -1,0 +1,17 @@
+{
+    "meta":
+    {
+        "title": "Xiaoqiang Studio",
+        "cols" : 4
+    },
+
+    "tools":
+    [
+        "test",
+        "test2",
+        "test",
+        "test2",
+        "test",
+        "test2"
+    ]
+}
